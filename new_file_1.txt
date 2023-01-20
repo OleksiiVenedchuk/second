@@ -1,13 +1,1 @@
-cat> new_file_1.txt[D[D[D[2
-
-[A[A[A[A[A[A[A[A[A[A[A[A
-[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B$ cat> new_file_1.txt[D[D[D[D[D[2
-[A[A[A[A[A[A[A[A[B[C[C[C[C[C[C[C[C[C[C[C
-[A[C[C
-
-[2~[B[B[B[B[B[B[B[B[B[B[B
-
-
-
-
-
+Відредагований текст файлу new_file_1.txt.
